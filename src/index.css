@@ -133,3 +133,22 @@ table {
   min-width: 800px;
   margin: 0 auto;
 }
+
+.todoListTitle {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 1rem 0;
+}
+
+.todo-card {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1rem;
+  border: 1px solid #ccc;
+}
+
+.todoTitle {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
